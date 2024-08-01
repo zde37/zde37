@@ -1,3 +1,3 @@
-### Random visitor: Hey ZDE👋, what do you do?
+History is a canvas that's constantly being repainted, let's paint with the colors of eternity.
 
-Me: Well, It's not magic, it's raw talent and skill. People like me craft elegant Golang solutions that power efficient and scalable production systems. I make sure one single race condition, memory leak or bug doesn't crash the entire system and bankrupt the company. That's what I do.
+I am an artist with code.
